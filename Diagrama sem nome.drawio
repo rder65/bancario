@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.1.0">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="550" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,9 +40,6 @@
         <mxCell id="112" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="226.99999999999997" y="895.5" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="111" value="" style="fillColor=#D9EAD3;strokeColor=none" parent="1" vertex="1">
-          <mxGeometry x="47" y="535.5000000000001" width="150" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="110" value="" style="fillColor=#12AAB5;strokeColor=none;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="1207" y="445.5000000000001" width="500" height="80" as="geometry" />
         </mxCell>
@@ -52,10 +49,10 @@
         <mxCell id="108" value="" style="fillColor=#12AAB5;strokeColor=none;opacity=30;" parent="1" vertex="1">
           <mxGeometry x="47.000000000000014" y="445.5" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2" value="Head of Development" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="2" value="pagina inicial" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="757" y="185.5" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="Training Department" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="4" value="sobre" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="1361.9999999999998" y="335.5" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=2;rounded=0" parent="1" source="2" target="4" edge="1">
@@ -64,28 +61,31 @@
             <mxPoint x="437" y="215.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="10" value="Technical Support" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="10" value="suporte tecnico" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="947" y="335.5" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="12" value="Research and &#xa;Development" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="12" value="logistica" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="561.9999999999999" y="335.5" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="13" value="Human Resources" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="13" value="login" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="107" y="335.5" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="14" value="Regular Report" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="14" value="usuario" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="57" y="455.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="15" value="Data Collection" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="ZvYBtpeBbY6_WZbC7jd3-131" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="15" target="ZvYBtpeBbY6_WZbC7jd3-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="senha" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="57" y="545.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="16" value="Programming" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="16" value="tipos de acesso&#xa;entregador ou loja" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="237" y="455.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="17" value="HTTP" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="17" value="criar conta" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="237" y="545.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="18" value="HTS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="18" value="recuperar senha" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="237" y="635.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="19" value="CVS" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
@@ -145,10 +145,10 @@
         <mxCell id="41" value="FAQ" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="977" y="455.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="42" value="Know Issues" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="42" value="formulario" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="977" y="545.5" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="43" value="Knowhow" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
+        <mxCell id="43" value="contatos" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
           <mxGeometry x="977" y="635.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="44" value="SI" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" parent="1" vertex="1">
@@ -550,6 +550,20 @@
             <mxPoint x="77" y="135.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="ZvYBtpeBbY6_WZbC7jd3-128" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="360" as="sourcePoint" />
+            <mxPoint x="1042" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZvYBtpeBbY6_WZbC7jd3-129" value="acesso" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="57" y="630" width="130" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="Requisitos  Funcionais (rf)&#xa;1.Login &#xa;2.dashboard por perfil &#xa;3.Tipos de acesso(transportadora,loja,entregador)&#xa;4.listas&#xa;5.Histórico &#xa;6.Notificações &#xa;7.Avaliação &#xa;8.Retribuição &#xa;9.Rastreamento &#xa;10.Listas de check-in, check-list &#xa;Upload de fotos e comprovantes&#xa;Registrar status&#xa;(Pendente,em rota, concluída, falha)&#xa;&#xa;11.Visualizar entregas atribuídas e disponíveis &#xa;12.Histórico de entregas &#xa;13.relatórios automáticos para transportadora e loja&#xa;14.Cálculo automático de ganhos do entregador&#xa;15.comucacao entre todos os setores.&#xa;&#xa;Rnf.&#xa;&#xa;1.segurança com autenticação &#xa; 2. Disponível via web e app&#xa;3. Tempo bom de resposta&#xa;4. Suporte offline&#xa;5. Interface intuitiva  e simples &#xa;6. alta disponível &#xa;7. escabalidade&#xa;8. transparecia de dados (status, valores e Histórico)&#xa;&#xa;&#xa;&#xa;(Concorentes sugeridos pela ia uber eats, ifood, loggi, rappi)&#xa;&#xa; Concorrentes analisados&#xa;&#xa;iFood → Interface simples, mas foco em restaurante/cliente, pouco controle logístico.&#xa;&#xa;Rappi → Muitas funções, porém confuso para o entregador, suporte ruim.&#xa;&#xa;Uber Eats (antigo) → Boa usabilidade, mas sem relatórios para entregadores.&#xa;&#xa;Loggi → Forte em entregas rápidas, porém comunicação entre loja e entregador é limitada.&#xa;&#xa;Opa gente peguei e analisei e juntei oq pesquisei e minha análise.&#xa;mais o chat gpt, q sugeriu essas qualidades de outras empresas" link="Requisitos  Funcionais (rf)&#xa;1.Login &#xa;2.dashboard por perfil &#xa;3.Tipos de acesso(transportadora,loja,entregador)&#xa;4.listas&#xa;5.Histórico &#xa;6.Notificações &#xa;7.Avaliação &#xa;8.Retribuição &#xa;9.Rastreamento &#xa;10.Listas de check-in, check-list &#xa;Upload de fotos e comprovantes&#xa;Registrar status&#xa;(Pendente,em rota, concluída, falha)&#xa;&#xa;11.Visualizar entregas atribuídas e disponíveis &#xa;12.Histórico de entregas &#xa;13.relatórios automáticos para transportadora e loja&#xa;14.Cálculo automático de ganhos do entregador&#xa;15.comucacao entre todos os setores.&#xa;&#xa;Rnf.&#xa;&#xa;1.segurança com autenticação &#xa; 2. Disponível via web e app&#xa;3. Tempo bom de resposta&#xa;4. Suporte offline&#xa;5. Interface intuitiva  e simples &#xa;6. alta disponível &#xa;7. escabalidade&#xa;8. transparecia de dados (status, valores e Histórico)&#xa;&#xa;&#xa;&#xa;(Concorentes sugeridos pela ia uber eats, ifood, loggi, rappi)&#xa;&#xa; Concorrentes analisados&#xa;&#xa;iFood → Interface simples, mas foco em restaurante/cliente, pouco controle logístico.&#xa;&#xa;Rappi → Muitas funções, porém confuso para o entregador, suporte ruim.&#xa;&#xa;Uber Eats (antigo) → Boa usabilidade, mas sem relatórios para entregadores.&#xa;&#xa;Loggi → Forte em entregas rápidas, porém comunicação entre loja e entregador é limitada.&#xa;&#xa;Opa gente peguei e analisei e juntei oq pesquisei e minha análise.&#xa;mais o chat gpt, q sugeriu essas qualidades de outras empresas" id="ZvYBtpeBbY6_WZbC7jd3-133">
+          <mxCell style="text;whiteSpace=wrap;" vertex="1" parent="1">
+            <mxGeometry x="500" y="1120" width="900" height="850" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
